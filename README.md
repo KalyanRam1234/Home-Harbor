@@ -1,6 +1,8 @@
 
 # Real Estate Recommendation System
 
+Link to Report : https://iiitbac-my.sharepoint.com/:b:/g/personal/kalyanram_munagala_iiitb_ac_in/EdBbqX4c7L5GhQMsmcDrWVEBE8T2wI3UnMj83OP8iaNRtw?e=aNfsoc
+
 ## Instructions to Run the Code
 
 Clone the project
